@@ -14,7 +14,7 @@ Welcome to Socialite, a social media platform designed to connect people within 
 
 ## Get Started
 
-To get started with Socialite, simply visit our [website](https://socialite-alpha.vercel.app) and sign up using your organization's email address. Once registered, you can start sharing updates and engaging in meaningful conversations.
+To get started with Socialite, simply visit our [website](https://socialite-alpha.vercel.app) and sign up using your organization's email address. Once registered,you can start sharing updates and engaging in meaningful conversations.
 
 ## Features
 
